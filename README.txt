@@ -192,7 +192,7 @@ please feel free to contact the author at:
 barry_b@users.sourceforge.net
 
 While I cannot always guarantee a quick response, I eventually respond
-to all e-mails and will do my best to slove any issues which are discovered.
+to all e-mails and will do my best to solve any issues which are discovered.
 
 Thanks for using OpenOPC for Python!
 
@@ -201,6 +201,7 @@ Credits
 Copyright (c) 2008-2012 by Barry Barnreiter (barry_b@users.sourceforge.net)
 Copyright (c) 2014 by Anton D. Kachalov (mouse@yandex.ru)
 Copyright (c) 2017 by Michal Kwiatkowski (michal@trivas.pl)
+Copyright (c) 2020 by John Ladasky (john.ladasky@gmail.com)
 
 http://openopc.sourceforge.net/
 https://github.com/ya-mouse/openopc
